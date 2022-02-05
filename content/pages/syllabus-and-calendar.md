@@ -33,12 +33,57 @@ The course will also help students develop close reading, critical thinking and 
 Requirements
 ------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class attendance and participation | 20% |
-| 10 1-page reading response essays | 30% |
-| Midterm paper | 20% |
-| Final paper | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10 1-page reading response essays
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detailed information on the activities in the table above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
@@ -61,23 +106,207 @@ Plagiarism is a serious offense. It's also wrong. If your text repeats part of a
 Calendar
 --------
 
-| SES # | TOPICS | DUE DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Section I: Everyday politics**{{< /td-colspan >}} |||
-| 2–3 | Module 1: Power in language  | &nbsp; |
-| 4–5 | Module 2: Language, authority, labor  | &nbsp; |
-| {{< td-colspan 3 >}}**Section II: American democratic politics**{{< /td-colspan >}} |||
-| 6–7 | Module 1: The practice of politics  | &nbsp; |
-| 8–9 | Module 2: Political rhetorics  | Midterm papers due during session 9 |
-| {{< td-colspan 3 >}}**Section III: Publics, counter-publics and states imagined**{{< /td-colspan >}} |||
-| 10–11 | Module 1: Publics  | &nbsp; |
-| 12–13 | Module 2: Imagined states  | &nbsp; |
-| 14–15 | Module 3: Ethnographies of states and publics imagined  | &nbsp; |
-| {{< td-colspan 3 >}}**Section IV: Non-government and the a-political**{{< /td-colspan >}} |||
-| 16–17 | Module 1: Society against the state  | &nbsp; |
-| 18–20 | Module 2: A-political governance  | &nbsp; |
-| 21–22 | Module 3: A-political bureaucracy  | Research proposals due during session 22 |
-| {{< td-colspan 3 >}}**Section V: Governing political affect**{{< /td-colspan >}} |||
-| 23–25 | Governing political affect  | &nbsp; |
-| 26 | Short presentations of final papers | Final papers due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section I: Everyday politics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Module 1: Power in language 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4–5
+{{< tdclose >}}
+{{< tdopen >}}
+Module 2: Language, authority, labor 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section II: American democratic politics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6–7
+{{< tdclose >}}
+{{< tdopen >}}
+Module 1: The practice of politics 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–9
+{{< tdclose >}}
+{{< tdopen >}}
+Module 2: Political rhetorics 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm papers due during session 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section III: Publics, counter-publics and states imagined**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10–11
+{{< tdclose >}}
+{{< tdopen >}}
+Module 1: Publics 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+Module 2: Imagined states 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–15
+{{< tdclose >}}
+{{< tdopen >}}
+Module 3: Ethnographies of states and publics imagined 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section IV: Non-government and the a-political**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16–17
+{{< tdclose >}}
+{{< tdopen >}}
+Module 1: Society against the state 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18–20
+{{< tdclose >}}
+{{< tdopen >}}
+Module 2: A-political governance 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21–22
+{{< tdclose >}}
+{{< tdopen >}}
+Module 3: A-political bureaucracy 
+{{< tdclose >}}
+{{< tdopen >}}
+Research proposals due during session 22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Section V: Governing political affect**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–25
+{{< tdclose >}}
+{{< tdopen >}}
+Governing political affect 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Short presentations of final papers
+{{< tdclose >}}
+{{< tdopen >}}
+Final papers due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
